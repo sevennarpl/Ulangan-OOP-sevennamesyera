@@ -1,0 +1,42 @@
+KliniksevennamesyeraPaket2/
+│
+├── index.php
+├── koneksi.php
+├── composer.json
+│
+├── tools/
+│   ├── pedomanpaket1.docx
+│   ├── strukturdb.sql
+│   └── strukturapk.css
+│
+├── src/
+│   ├── Models/
+│   │   ├── Pasien.php
+│   │   └── Kunjungan.php
+│   │
+│   └── Controllers/
+│       ├── PasienController.php
+│       └── KunjunganController.php
+│
+├── views/
+│   │
+│   ├── Pasien/
+│   │   ├── index.php
+│   │   ├── create.php
+│   │   ├── edit.php
+│   │   └── show.php
+│   │
+│   └── Kunjungan/
+│       ├── index.php
+│       ├── create.php
+│       ├── edit.php
+│       └── show.php
+│
+├── assets/
+│   ├── images/
+│   │   └── pasien/
+│   │
+│   └── style.css
+│
+└── vendor/
+
